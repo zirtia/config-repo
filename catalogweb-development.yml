@@ -1,7 +1,7 @@
 server:
   port: 8092
 
-
+inc: ff
 spring:
   zipkin:
     enabled: true
